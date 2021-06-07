@@ -66,3 +66,9 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 ## Country Info Bots
 
 - [FnCountryInfoBot](https://telegram.me/FnCountryInfoBot)
+
+---
+
+## AI Bots
+
+- [Erza](https://telegram.me/ErzaChat_bot)
